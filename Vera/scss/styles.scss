@@ -1,0 +1,55 @@
+header {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)),
+    url(../images/header-background.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 800px;
+}
+
+@media (max-width: 767.98px) {
+  .header-text {
+    text-align: center;
+  }
+
+  .partner {
+    margin-bottom: 30px;
+  }
+
+  .form-area {
+    margin-top: 20px;
+  }
+
+  .solution-card {
+    margin-bottom: 20px;
+  }
+
+  .details-1-text {
+    margin-bottom: 20px;
+  }
+
+  .details-2-text {
+    margin-top: 20px;
+  }
+
+  .expertise-card-margin {
+    margin-bottom: 30px;
+  }
+
+  .pricing-card {
+    margin-bottom: 20px;
+  }
+
+  .project-card {
+    margin-bottom: 30px;
+  }
+
+  .subscribe {
+    width: 100%;
+  }
+
+  .footer-text,
+  .footer-links {
+    margin-bottom: 30px;
+  }
+}
