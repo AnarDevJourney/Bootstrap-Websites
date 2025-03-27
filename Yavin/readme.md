@@ -1,10 +1,8 @@
-# Bootstrap 5 Simple Starter
+### 🔗 Yavin Bootstrap Website Live Demo
 
-This is a simple boilerplate for creating and customizing Bootstrap websites. Just run the `npm run sass:watch` command and customize Bootstrap by changing the variable values.
+[https://yavin-bootstrap.netlify.app/](https://yavin-bootstrap.netlify.app/)
 
-This boilerplate is used in my [Bootstrap 5 From Scratch](https://traversymedia.com/bootstrap-from-scratch) course to build 5 different websites.
-
-## Usage
+## 📌 Usage
 
 Install dependencies:
 
@@ -14,7 +12,7 @@ npm install
 
 This will install Bootstrap, Sass and Font Awesome.
 
-## Compile Sass
+## 📌 Compile Sass
 
 To build your CSS files from Sass, run:
 
@@ -22,7 +20,7 @@ To build your CSS files from Sass, run:
 npm run sass:build
 ```
 
-## Watch Sass
+## 📌 Watch Sass
 
 To watch your Sass files for changes, run:
 
